@@ -38,4 +38,4 @@ ojetos futuros que integrem **nuvem e inteligência artificial**.
 - Microsoft Azure (conceitos teóricos)
 - Git e GitHub para versionamento
 
-## 🏅 Projeto realizado com apoio da DIO
+## 🏅 Projeto realizado com apoio da [DIO](https://www.dio.me)
